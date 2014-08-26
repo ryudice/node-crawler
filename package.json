@@ -40,7 +40,7 @@
   "dependencies": {
     "htmlparser": "^1.7.7",
     "request": "^2.34.0",
-    "jsdom": "^0.10.5",
+    "jsdom": "1.0.0-pre.3",
     "generic-pool": "^2.0.4",
     "underscore": "^1.6.0",
     "jschardet": "^1.1.0",
